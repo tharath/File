@@ -2,7 +2,7 @@
 <AppUpdate>
 	<update appId="Testing">
 		<version>2.0.0.0</version>
-		<url> </url>
+		<url>https://github.com/tharath/File/Testing.exe</url>
 		<fileName>Testing2.exe</fileName>
 		<md5>DFB4126AEDA62C9F0BCE83F105ADCFDD</md5>
 		<description>Initial update</description>
