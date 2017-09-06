@@ -1,6 +1,6 @@
 <?xml version="1.0">
 <AppUpdate>
-	<update appId="Testing">
+	<update appID="Testing">
 		<version>2.0.0.0</version>
 		<url>https://github.com/tharath/File/blob/master/Testing.exe</url>
 		<fileName>Testing2.exe</fileName>
